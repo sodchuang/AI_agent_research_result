@@ -12,7 +12,7 @@
   # 1 AutoKaggle
 
   ## 1-1 論文簡介
-
+![Flow](images/AutoKaggle_flow.png)
 
   ## 1-2 開源測試
 
