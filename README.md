@@ -22,7 +22,7 @@
 Library 包含資料清理、特徵工程，以及模型建立、驗證與預測。
 
   ## 1-2 開源測試
-專案在Linux上執行，使用三常見LLM進行自身模型的開發與訓練，本身開源以Chatgpt-4o為例，測試Data以Kaggle五個資料集測試，開源[Github](https://github.com/multimodal-art-projection/AutoKaggle)，由於有使用到Ｏpenai 的API Key需要付費，因此以失敗告終
+專案在Linux上執行，使用三常見LLM進行自身模型的開發與訓練，本身開源以Chatgpt-4o為例，測試Data以Kaggle五個資料集測試，開源[Github](https://github.com/multimodal-art-projection/AutoKaggle)，由於有使用到Ｏpenai 的API Key需要付費，目前改用Gemini
 
 ![fail](images/fail.png)
 
