@@ -34,8 +34,6 @@ Library 包含資料清理、特徵工程，以及模型建立、驗證與預測
   # 2 MLE-Star
 
   ## 2-1 論文簡介
-![Flow2](images/MLE_star.png)
 
-  Google 為核心開發的 machine learning engineering 系統，
   ## 2-2 開源測試
   
